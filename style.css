@@ -64,8 +64,8 @@ a:hover{
 
 aside{
     background-image: url(img_0001.jpg);
-    position: right;
-    width: 30%;
+    position: relative;
+    width: 45%;
     height: 60vh;
     padding: .5rem;
     border: .5rem solid black;
